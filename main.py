@@ -4,7 +4,7 @@ import os
 import sys
 import shutil
 import threading
-
+#fd
 
 # تحديد مسار التطبيق
 path_app = os.path.abspath(sys.argv[0])
